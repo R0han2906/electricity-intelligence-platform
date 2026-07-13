@@ -1,0 +1,30 @@
+# Dataset
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+frontend-env/
+backend-env
+
+# Node
+node_modules/
+
+# Database
+*.db
+
+# Environment
+.env
+
+# Build
+dist/
+build/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
