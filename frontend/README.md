@@ -10,7 +10,7 @@
 [![Tailwind](https://img.shields.io/badge/Tailwind-v4-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](../LICENSE)
 
-[Live App](#-live-demo) · [Backend Repo / API Docs](../backend) · [Report Bug](../../issues)
+[Live App](https://smart-electricity-intelligence-plat.vercel.app/)· [Backend Repo / API Docs](../backend) · [Report Bug](../../issues)
 
 </div>
 
@@ -28,7 +28,7 @@ Built as a modular React + TypeScript codebase with a clear separation between A
 
 | Environment | Link |
 |---|---|
-| Production | `<ADD_YOUR_DEPLOYED_FRONTEND_URL>` |
+| Production | `https://smart-electricity-intelligence-plat.vercel.app/` |
 | Backend API (consumed by this app) | `https://electricity-intelligence-platform-backend.onrender.com/docs` |
 
 > Backend is on Render's free tier — expect a cold-start delay of 30–50s on first request after inactivity.
@@ -178,11 +178,7 @@ git push origin feature/your-feature
 
 ---
 
-## 📄 License
 
-MIT — see [`LICENSE`](../LICENSE).
-
----
 
 <div align="center">
 
